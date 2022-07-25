@@ -1,0 +1,13 @@
+.friday-info-background{
+    background-color: #db2168;
+}
+.friday-bt-info-background{
+   background-image: linear-gradient(to bottom, #FF589B 0%, #ff4790 100%);
+   color: white;
+   border-radius: 8px;
+   padding: 9px 25px;
+   border: none;
+   
+}
+.categories img{
+    width: 100px;
